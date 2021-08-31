@@ -57,7 +57,7 @@
   line-height: 1.2;
   font-size: 18px;
   font-weight: normal;
-  margin: 0 0 20;
+  margin: 0 0 20px;
   padding: 0;
   position: relative;
 }
@@ -97,7 +97,7 @@
 .header__subtitle {
   width: 388px;
   position: absolute;
-  left: 68px;
+  left: 64px;
   margin: 0;
   bottom: 30px;
   z-index: 3;
@@ -385,7 +385,7 @@
 
 .logo_place_footer {
   margin-top: 0;
-  width: 185px;
+  width: 183px;
   height: 35px;
 }
 
@@ -401,7 +401,7 @@
   margin: 0;
 }
 
-.column__heading {
+.footer__column-heading {
   line-height: 30px;
   font-size: 18px;
   font-weight: bold;
@@ -421,7 +421,7 @@
   padding: 0;
 }
 
-.links-list__item {
+.footer__links-list-item {
   list-style-type: none;
 }
 

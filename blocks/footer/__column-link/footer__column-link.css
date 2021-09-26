@@ -5,10 +5,10 @@
   color: white;
   text-decoration: none;
   margin: 0;
+  transition: opacity linear 1.25s;
 }
 
 .footer__column-link:hover {
   opacity: 50%;
-  transition: opacity linear 1.25s;
   color: gold;
 }

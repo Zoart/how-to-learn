@@ -2,9 +2,9 @@
   margin: 0;
   padding: 0;
   text-decoration: none;
+  transition: opacity linear 1.25s;
 }
 
 .resources__logo-link:hover {
   opacity: 50%;
-  transition: opacity linear 1.25s;
 }

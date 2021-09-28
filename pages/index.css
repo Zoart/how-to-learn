@@ -34,7 +34,6 @@
 
 @import url(../blocks/kaufman/kaufman.css);
 @import url(../blocks/kaufman/__triangle/kaufman__triangle.css);
-@import url(../blocks/kaufman/_theme/kaufman_theme_dark.css);
 
 @import url(../blocks/logo/logo.css);
 @import url(../blocks/logo/_place/logo_place_footer.css);
@@ -74,7 +73,6 @@
 @import url(../blocks/rotation/rotation.css);
 
 @import url(../blocks/techniques/techniques.css);
-@import url(../blocks/section-title/_place/section-title_place_techniques.css);
 @import url(../blocks/cards/cards.css);
 @import url(../blocks/cards/__item/cards__item.css);
 @import url(../blocks/cards/__image/cards__image.css);
